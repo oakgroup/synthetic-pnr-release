@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the following paper."
+title: "Generating Realistic Passenger Name Records with Privacy Compliance for Security Analysis"
+authors:
+  - family-names: Fadlian
+    given-names: M. F.
+  - family-names: Ireson
+    given-names: N.
+  - family-names: Lanfranchi
+    given-names: V.
+date-released: 2025-08-04
+version: 1.86
+doi: 10.59297/mbf3dq94
+type: dataset
+repository-dataset: https://github.com/YOUR_ORG/synthetic-pnr-release
+repository-code: - 
+conference: International ISCRAM Conference
