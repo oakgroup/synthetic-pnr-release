@@ -1,6 +1,6 @@
 # Synthetic PNR Dataset (v1.86)
 
-![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![Dataset Size](https://img.shields.io/badge/Data-4.7M%20Passengers-blue)
 ![Version](https://img.shields.io/badge/Version-v1.86-orange)
 
