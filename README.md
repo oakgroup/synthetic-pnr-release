@@ -35,7 +35,7 @@ A DOI for the dataset will be issued in the next release via Zenodo.
 
 ## 📜 License
 
-This dataset is released under the Creative Commons Attribution 4.0 International (CC-BY 4.0) License.
+This dataset is released under the Creative Commons Attribution 4.0 International (CC-BY-NC 4.0) License.
 
 ## 🔗 Links
 
